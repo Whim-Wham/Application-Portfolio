@@ -13,7 +13,7 @@ I left this project as a Jupyter Notebook to show original outputs generated fro
 
 Setup Notes:
 1) Verify a python 3 installation
-2) Pip install the libraries above in addition to Jupyter notebooks
+2) Pip install the libraries included in the Jupyter notebook (spacy, pandas, numpy, Jupyter, re, and nltk). The latter item may not have much use after this commit.
 3) Install spacy langauge model with the following command line: 
     "python -m spacy download en_core_web_lg"
 
