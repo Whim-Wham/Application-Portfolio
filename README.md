@@ -9,8 +9,7 @@ so I included definitions written by Robert A Harris in his handy text,
 it seeks to explain rhetoric in terms of the outcomes of its usage, which I don't often 
 see in other writing textbooks.
 
-I left this project as a Jupyter Notebook, as it will still show outputs generated from my machine.
-See the readme for setup instructions and feel free to reach out with questions.
+I left this project as a Jupyter Notebook to show original outputs generated from my machine in the event of setup issues.
 
 Setup Notes:
 1) Verify a python 3 installation
