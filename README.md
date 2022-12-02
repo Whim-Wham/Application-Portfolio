@@ -2,12 +2,12 @@
  
 Thank you for taking the time to look through the Rhetoric Search project! 
 
-My aim with this work is to identify rhetorical devices to improve understanding in NLP.
-Many of these devices (e.g., Anadiplosis) are not common knowledge,
-so I included definitions written by Robert A Harris in his handy text,
-"A Handbook of Rhetorical Devices." I reference this book so often, as I appreciate that
-it seeks to explain rhetoric in terms of the outcomes of its usage, which I don't often 
-see in other writing textbooks.
+My aim with this work is to create simple rules in identifying English rhetorical devices with the hope of providing additional
+inputs into machine learning models.
+
+Many of these devices (e.g., Anadiplosis) are not common knowledge, so I included definitions written by Robert A Harris in his handy text,
+"A Handbook of Rhetorical Devices." I reference this book often, as I appreciate that
+it seeks to explain rhetoric in terms of its effects, which I don't often see in other writing textbooks.
 
 I left this project as a Jupyter Notebook to show original outputs generated from my machine in the event of setup issues.
 
